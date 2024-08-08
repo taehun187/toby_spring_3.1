@@ -14,16 +14,18 @@ Maven 환경으로 변경하였고, 2024년 시점에 맞는 환경을 구성하
 
 -  **IDE : STS4 - 4.24.0.RELEASE**
 
--  **SpringFramework : 5.3.20**
+-  **SpringFramework : 0.0.1-SNAPSHOT**
 
 -  **Java : 17**
 
 -  **Maven**
 
 -  **Dependency**
-	-  **Spring Framework: DAO**
-	-  **Spring test**
-  - **MySQL** 
-	- **JUnit5**
+	- **Spring Core**
+	- **Spring test**
+ 	- **Spring Context**
+  	- **Spring JDBC**
+  	- **MySQL** 
 	- **H2**
+	- **JUnit5**
 	
